@@ -5,6 +5,7 @@ Welcome to the **Vizora Sales and Transaction Analysis** project. This project e
 
 ![Dashboard Preview](https://github.com/favy-codez/Vizora-Sales-and-Transaction-Analysis-Report/blob/main/Screenshot%20(839).png)
 ![Dashboard Preview](https://github.com/favy-codez/Vizora-Sales-and-Transaction-Analysis-Report/blob/main/Screenshot%20(840).png)
+![Dashboard Preview](https://github.com/favy-codez/Vizora-Sales-and-Transaction-Analysis-Report/blob/main/Screenshot-661.png)
 ---
 
 ## Project Overview
